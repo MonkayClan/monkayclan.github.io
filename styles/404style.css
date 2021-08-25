@@ -1,0 +1,10 @@
+#details
+{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:30px;
+    font-weight:regular;
+    text-align:center;
+    width:100%;
+}
