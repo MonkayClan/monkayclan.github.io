@@ -70,3 +70,18 @@ body {
   text-align: center;
   width: 100%;
 }
+.return {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  top: 250px;
+  font-size: 20px;
+  color: #00bbff;
+}
+.titletext {
+  position: relative;
+  text-align: center;
+  top: 250px;
+  font-family: arial;
+  font-size: 40px;
+}
