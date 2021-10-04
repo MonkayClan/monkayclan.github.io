@@ -37,6 +37,8 @@ body {
   margin: 5px;
   top: 300px;
   position: relative;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .b2 {
   justify-content: center;
@@ -55,6 +57,8 @@ body {
   margin: 5px;
   top: 0px;
   position: relative;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .defaultbody {
   overflow-x: auto;
