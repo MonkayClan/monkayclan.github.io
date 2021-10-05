@@ -89,3 +89,13 @@ body {
   font-family: arial;
   font-size: 40px;
 }
+.take-long-time-download {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 350px;
+  font-size: 22px;
+}
+.long-download-a {
+  color: #00bbff;
+}
