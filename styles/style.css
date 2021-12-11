@@ -1,0 +1,121 @@
+body {
+  overflow-x: hidden;
+  background-color: #474747;
+  height: 100%;
+}
+#yee {
+  z-index: 100;
+  position: absolute;
+  color: black;
+  font-size: 70px;
+  font-weight: regular;
+  font-family: arial;
+  text-align: center;
+  top: 100px;
+  width: 100%;
+}
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+.b1 {
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #42f59e;
+  border: none;
+  color: #000000;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 300px;
+  transition: all 0.3s;
+  cursor: pointer;
+  margin: 5px;
+  top: 300px;
+  position: relative;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.b1:hover {
+  background-color: rgb(0,0,0);
+  color: white;
+}
+.b2 {
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #42f59e;
+  border: none;
+  color: #000000;
+  text-align: center;
+  font-size: 15px;
+  padding: 5px;
+  width: 400px;
+  transition: all 0.3s;
+  cursor: pointer;
+  margin: 5px;
+  top: 0px;
+  position: relative;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.b2:hover {
+  background-color: rgb(0,0,0);
+  color: white;
+}
+.defaultbody {
+  overflow-x: auto;
+  overflow-y: auto;
+  background: none;
+}
+#details {
+  z-index: 100;
+  position: absolute;
+  color: black;
+  font-size: 30px;
+  font-weight: regular;
+  text-align: center;
+  width: 100%;
+}
+.return {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  top: 250px;
+  font-size: 20px;
+  color: #00bbff;
+}
+.titletext {
+  position: relative;
+  text-align: center;
+  top: 250px;
+  font-family: arial;
+  font-size: 40px;
+}
+.take-long-time-download {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 350px;
+  font-size: 22px;
+}
+.long-download-a {
+  color: #00bbff;
+}
+.div-bg {
+  /* The image used */
+  background-image: url("img_girl.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
