@@ -164,6 +164,6 @@ textarea {
 .links-modal a:first-of-type {
   color: red;
 }
-.links-modal a:nth-of-type() {
+.links-modal a:nth-of-type(2) {
   color: rgb(88, 101, 242);
 }
